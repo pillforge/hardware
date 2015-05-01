@@ -1,0 +1,19 @@
+Part Value                    Device                   Package						Vendor					Part
+C1   100n                     C_0402                   C0402                    
+C2   100n                     C_0402                   C0402                    
+C3   10u                      C_0402                   C0402                    
+C4   27p                      C_0402                   C0402                    
+C5   27p                      C_0402                   C0402						
+C6   10n                      C_0402                   C0402                    	Digi-Key				490-1313-1-ND
+C7   220p                     C_0402                   C0402                    
+C8   10n                      C_0402                   C0402					    Digi-Key          		490-1313-1-ND      
+C9   10n                      C_0402                   C0402                    	Digi-Key				490-1313-1-ND
+C10  220p                     C_0402                   C0402                    
+R1   56k                      R_0402                   R0402                    
+R2   47k                      R_0402                   R0402                    
+U1   CC1101RTK                CC1101RTK                QFN50P400X400X90-21N   
+U2  26_MHZ_OSC               26_MHZ_OSC               CTS_26_PACKAGE                     
+U3  MIC94044                 MIC94044                 MIC94045YFL_FOOTPRINT    
+U4  24530BM15A0002           24530BM15A0002           24530BM15A0002           
+U5  513389873_2X5_RECEPTACLE 513389873_2X5_RECEPTACLE 513389873_2X5_RECEPTACLE 
+  

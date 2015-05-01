@@ -1,0 +1,16 @@
+Miniaturized_BGA_Final.cmp	component
+Miniaturized_BGA_Final.ly2	layer2
+Miniaturized_BGA_Final.ly3	layer3
+Miniaturized_BGA_Final.ly4  layer4
+Miniaturized_BGA_Final.ly5  layer5
+Miniaturized_BGA_Final.sol  solder (bottom)
+Miniaturized_BGA_Final.oln  outline
+Miniaturized_BGA_Final.crc  cream component side
+Miniaturized_BGA_Final.crs  cream solder side (bottom)
+Miniaturized_BGA_Final.stc  solder mask componend side
+Miniaturized_BGA_Final.sts  solder mask solder side (bottom)
+Miniaturized_BGA_Final.plc  silkscreen component side
+Miniaturized_BGA_Final.pls  silkscreen solder side (bottom)
+Miniaturized_BGA_Final.drd.0102	drill blind 1-2 
+Miniaturized_BGA_Final.drd.0215	buried 2-5 
+Miniaturized_BGA_Final.drd.0216	through hole via 1-6 

@@ -1,0 +1,122 @@
+Part       Value                              Device                       Package					SUPPLIER				SUPPLIER PART NUMBER	
+				                  
+C1         10n                                C_0603                       C0603                    DIGI-KEY                490-1512-1-ND                                                                      
+C2         470n                               C_0603                       C0603                    DIGI-KEY                490-1539-1-ND                                      
+C3         100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                    
+C4         10u                                C_0603                       C0603                    DIGI-KEY                587-3383-1-ND                      
+C5         1n                                 C_0603                       C0603                    DIGI-KEY                490-1494-1-ND                       
+C6         33p                                C_0603                       C0603                    DIGI-KEY                399-1055-1-ND                               
+C7         33p                                C_0603                       C0603                    DIGI-KEY                399-1055-1-ND                                
+C8         100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                              
+C9         100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                    
+C10        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                    
+C11        10u                                C_0603                       C0603          	    DIGI-KEY                587-3383-1-ND                                                                 
+C12        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C13        10p                                C_0603                       C0603                    DIGI-KEY                712-1308-1-ND                                                               
+C14        10p                                C_0603                       C0603                    DIGI-KEY                712-1308-1-ND                                                               
+C15        220n                               C_0603                       C0603                    DIGI-KEY                445-1318-1-ND                                                             
+C16        220n                               C_0603                       C0603                    DIGI-KEY                445-1318-1-ND                                                              
+C17        10n                                C_0603                       C0603                    DIGI-KEY                490-1512-1-ND                                                             
+C18        470n                               C_0603                       C0603                    DIGI-KEY                490-1539-1-ND                                                             
+C19        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C20        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C21        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C22        10u                                C_0603                       C0603                    DIGI-KEY                587-3383-1-ND                                                             
+C23        12p                                C_0603                       C0603		    DIGI-KEY		    1276-1254-1-ND										                                                                                                 
+C24        12p                                C_0603                       C0603                    DIGI-KEY		    1276-1254-1-ND	                                                                             
+C25        10u                                C_0603                       C0603                    DIGI-KEY                587-3383-1-ND                                                     
+C26        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C27        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C28        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C29        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C30        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C31        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C32        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C33        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C36        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+C37        100n                               C_0603                       C0603                    DIGI-KEY                311-1343-1-ND                                                                             
+CONN1      HEADER MSP430_B                    PINHD-2X15                   2X15                     DIGI-KEY                609-3456-ND                                                      
+CONN2      HEADER BUS A                       PINHD-2X15                   2X15                     DIGI-KEY                609-3456-ND                                                    
+CONN3      HEADER BUS B                       PINHD-2X15                   2X15                     DIGI-KEY                609-3456-ND                                                    
+EZUSB      USB!                               MINI-USB-SHIELD	           UX60A-MB-5ST             DIGI-KEY                H2961CT-ND                                                     
+JP1        VDD B SEL                          PINHD-2X3                    2X03                     MOUSER                  649-54102-G0803LF                                                           
+JP2        RADIO_HEADER B                     PINHD-2X7                    2X07                                                                                                  
+JP3        POW BOARD POWER                    PINHD-1X2                    1X02                     MOUSER                  571-4-103328-1                                                             
+JP4        I2C PULL UP                        PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                             
+JP5        JPR_EZFET_JTAG                     PINHD-2X7                    2X07                                                                                                  
+JP6        EZFET_UART                         PINHD-1X3                    1X03                     MOUSER                  649-68024-103HLF                                                           
+JP7        JUMPER HEADER MSB_B <_> GLOBAL BUS PINHD-2X20                   2X20                     DIGI-KEY                952-1896-ND                                                            
+JP8        RADIO SPI                          PINHD-2X7                    2X07                                                                                                  
+JP9        VDD_B                              PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP10       GND                                PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP11       LDO_VDD                            PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP12       JPR_MSP_B_JTAG                     PINHD-2X7                    2X07                                                                                                  
+JP14       GLOBAL BUS JUMPER JTAG             PINHD-2X7                    2X07                                                                                                  
+JP15       VDD                                PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP16       EZFET_HEADER                       PINHD-2X4                    2X04                     MOUSER                  571-5146256-4                                                          
+JP17       VCC_EZFET                          PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP18       VDD                                PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP19       GND                                PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                       
+JP21       VDD_RADIO                          PINHD-2X2                    2X02                     DIGI-KEY                609-3242-ND                                                     
+LED1       Red LED                            LEDCHIP-LED0603              CHIP-LED0603		    DIGI-KEY		    160-1181-1-ND                                                                                          
+LED2       Green  LED                         LEDCHIP-LED0603              CHIP-LED0603             DIGI-KEY		    160-1183-1-ND                                                                              
+LED3       Red LED                            LEDCHIP-LED0603              CHIP-LED0603             DIGI-KEY		    160-1181-1-ND                                                                             
+Q2         OSC                                CSTCR4M00G53Z                CSTCR4M                  DIGI-KEY                490-1200-1-ND                         
+R1         1k4                                R_0603                       R0603                    DIGI-KEY		    311-1.40KHRCT-ND                   
+R2         47k                                R_0603                       R0603                    DIGI-KEY                311-47.0KHRCT-ND 
+R3         150k                               R_0603                       R0603                    DIGI-KEY                P150KDBCT-ND                   
+R4         240k                               R_0603                       R0603                    DIGI-KEY                P240KGCT-ND   
+R5         220k                               R_0603                       R0603                    DIGI-KEY                1276-5118-1-ND                   
+R6         220k                               R_0603                       R0603                    DIGI-KEY                1276-5118-1-ND                     
+R7         1M                                 R_0603                       R0603                    DIGI-KEY                311-1.00MHRCT-ND    
+R8         27                                 R_0603                       R0603                    DIGI-KEY                311-27.0HRCT-ND                   
+R9         27                                 R_0603                       R0603                    DIGI-KEY                311-27.0HRCT-ND                   
+R10        470                                R_0603                       R0603                    DIGI-KEY                1276-5054-1-ND 
+R11        390                                R_0603                       R0603                    DIGI-KEY                1276-5052-1-ND  
+R12        4.7k                               R_0603                       R0603                    DIGI-KEY                311-4.7KRGCT-ND   
+R13        4.7k                               R_0603                       R0603                    DIGI-KEY                311-4.7KRGCT-ND    
+R14        470                                R_0603                       R0603                    DIGI-KEY                1276-5054-1-ND   
+R15        10                                 R_0603                       R0603                    DIGI-KEY                RHM10DCT-ND   
+R16        1M                                 R_0603                       R0603                    DIGI-KEY                311-1.00MHRCT-ND 
+R17        47k                                R_0603                       R0603                    DIGI-KEY                311-47.0KHRCT-ND                   
+R18        10                                 R_0603                       R0603                    DIGI-KEY                RHM10DCT-ND   
+R19        10                                 R_0603                       R0603                    DIGI-KEY                RHM10DCT-ND   
+R20        10                                 R_0603                       R0603                    DIGI-KEY                RHM10DCT-ND      
+R21        33k                                R_0603                       R0603                    DIGI-KEY                P33KDBCT-ND   
+R22        0                                  R_1206                       R1206                    DIGI-KEY                311-0.0ERCT-ND   
+RADIO_CONN RADIO                              559099872_2X5_PLUG           559099872_2X5_PLUG       DIGI-KEY                WM8766CT-ND    
+S1         RST_EZFET                          PUSH_BOT                     EVQ_11_TH                DIGI-KEY                P8070SCT-ND     
+S2         RST_MSP_B                          PUSH_BOT                     EVQ_11_TH                DIGI-KEY                P8070SCT-ND     
+SW1        I2C POW SW > BUS                   SWITCH_SLEDGE_3POS           CL-SB-23B-02             DIGI-KEY		    563-1355-1-ND                    
+SW2        I2C MSP_B  > BUS                   SWITCH_SLEDGE_3POS           CL-SB-23B-02             DIGI-KEY		    563-1355-1-ND                     
+SW3        JTAG SWITCH                        SWITCH_SLEDGE_3POS           CL-SB-23B-02             DIGI-KEY		    563-1355-1-ND                     
+SW4        UART SWITCH                        SWITCH_SLEDGE_3POS           CL-SB-23B-02             DIGI-KEY		    563-1355-1-ND                     
+TEST       VDD_RADIO                          TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND   
+TI_JTAG    TI_JTAG                            HEADER 100 mil 14 P          2X7 100 mil              MOUSER		    5103308-2
+TP1        GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP2\       LDO VDD                            TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP3        VCC_EZFET                          TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP4        GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP5        TEST_POINT                         TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP6        TP6                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP7        GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP8        GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP9        GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP10       GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                    
+TP11       GND                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND                     
+TP12       VDD                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND  
+TP13       VDD                                TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND  
+TP14       VDD_B                              TEST_POINT                   5019_PAD                 DIGI-KEY                5019KCT-ND  
+U$2        SLOT2                              TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$4        SLOT3                              TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$5        SLOT4                              TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$6        SLOT5                              TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$7        TFML-115-02-S-D                    TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$8        SLOT1                              TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$9        POWER BOARD SLOT                   TFML-115-02-S-D              TFML-115-02-S-D          DIGI-KEY                SAM8264-ND
+U$10       FPC_CABLE_ADAPTATOR                CABLE_ADAPTATOR              FPC_FFC                  MOUSER		    538-52207-1033
+U$16       OSC32K                             OSC32K                       ABS07                    DIGI-KEY                535-9808-1-ND
+U1         TPS73233                           TPS732XX                     SOT23                    MOUSER		    595-TPS73233DBVR
+U2         TPD4E004DRYR                       TPD4E004DRYR                 TPD4E004DRYR		    MOUSER		    595-TPD4E004DRYR               
+U3         USB_EZFET                          MSP430F5528IRGCT             QFN64                    DIGI-KEY		    296-27930-1-ND
+U4         MSP430_B                           MSP430F5528IRGCT             QFN64 		    DIGI-KEY 		    296-27930-1-ND

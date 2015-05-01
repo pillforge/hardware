@@ -1,0 +1,17 @@
+Part Value             Device            Package			Vendor										Part Number
+C1   100n              C_0402            C0402                                                                                                            
+C2   10u               CP_               C0402                                                                                                            
+C3   100n              C_0402            C0402                                                                                                            
+C5   10u               CP_               C0402                                                                                                            
+C6   100n              C_0402            C0402                                                                                                            
+R1   10k               R_0402            R0402                                                                                                            
+R2   235               R_0402            R0402                                                                                                            
+R3   4.7k              R_0402            R0402                                                                                                            
+R4   4.7k              R_0402            R0402                                                                                                            
+R5   100m              R_0402            R0402                                                                                                            
+U$1  LTC4065           LTC4065           LTC4065            DIGI-KEY                                        LTC4065AEDC#TRMPBFCT-ND                                                      
+U$2  LED0402           LED0402           LED_0402           DIGI-KEY                                        511-1653-1-ND                                                       
+U$3  55909-0374_PLUG   55909-0374_PLUG   55909-0374_PLUG    
+U$4  NCP606            NCP606            NCP606             DIGI-KEY                                        NCP606MN33T2GOSCT-ND                                              
+U$5  ASR_2_REC         ASR_2_REC         ASR_2_CONN         tlcelectronics.secured-service.com          	BM02B-ASRS-TF(LF)(SN)                                                                      
+U1   LTC2942CDCBTRMPBF LTC2942CDCBTRMPBF DFN20        		DIGI-KEY  										LTC2942CDCB#TRMPBFCT-ND 
